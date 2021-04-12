@@ -150,10 +150,6 @@ border-bottom: 2px dashed #ccc;
     margin-left: auto;
 }
 
-.exp-desc {
-    flex: 0 0 70%;
-    margin-left: auto;
-}
 
 .exp img {
     width: 100%;
@@ -229,7 +225,7 @@ flex: 0 0 10%;
 }
 
 .exp info, .exp-desc {
-    flex: 0 0 85%;
+    flex: 0 0 70%;
     margin-left: auto;
 }
 
