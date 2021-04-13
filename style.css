@@ -102,12 +102,12 @@ border-bottom: 2px dashed #ccc;
     box-shadow: 0px 0px 10px #ccc;
     border-radius: 5px; 
 }
-
+/*
 .contact-flex {
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-    
+ */   
 }
 
     .contact-flex p:first-child {
