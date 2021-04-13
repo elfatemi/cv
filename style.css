@@ -208,7 +208,7 @@ box-shadow: 0px 0px 15px #555;
 .contact {
     padding-left: 20px;
     margin-right: auto;
-    margin-left: auto;
+    flex: 0 0 85%;
     
 }
 
